@@ -11,11 +11,14 @@ Je kiest één van de volgende opdrachten:
   
   ![monogame](images/skigame.png)
 
+  Je kan de opdracht vinden in het mapje 'monogame_ski'
+
 ### Kerstlijstje (MAUI)
   
   ![maui](images/kerstlijstje.jpg)
+  Je kan de opdracht vinden in het mapje 'maui_kerstlijst'
 
-Je mag beide opdrachten uitwerken, maar slechts één opdracht wordt gebruikt voor de evaluatie.
+Je mag beide opdrachten uitwerken, maar slechts één opdracht wordt gebruikt voor de evaluatie. Je kiest zelf welke.
 
 ## Wat wordt verwacht
 
@@ -35,5 +38,9 @@ De focus van deze opdracht ligt op softwareontwerp, dit wil zeggen dat een zeer 
 ## Tips
 
 Bekijk zeker de klassikaal gemaakte oefeningen ([Surfing pikachu](https://github.com/tommy-uytterhaegen/HoGent/tree/main/2025_S1_MonoGame_Pikachu_03-EindeLes3) & [Joke-app](https://github.com/tommy-uytterhaegen/HoGent/tree/main/2025_S1_Maui_Jokes_03_EindeLes3)), eventueel ook de gedeelde code
+
+## Belangrijk
+
+Mochten er aanpassingen komen aan deze bestanden, relevant voor de opdracht, dan zal ik een bericht uitsturen via Chamilo ook.
 
 Succes!
