@@ -8,7 +8,11 @@ Dit is de eindevaluatie voor het vak Softwareontwerp 2, gegeven door Tommy Uytte
 Je kiest één van de volgende opdrachten:
 
 - Ski-game (MonoGame)
+  
+  ![monogame](images/skigame.png)
 - Kerstlijstje (MAUI)
+  
+  ![maui](images/kerstlijstje.jpg)
 
 Je mag beide opdrachten uitwerken, maar slechts één opdracht wordt gebruikt voor de evaluatie.
 
