@@ -35,14 +35,13 @@ Forceer geen ontwerppatronen: gebruik wat zinvol en verdedigbaar is.
 
 ## Tips
 
-Bekijk zeker de klassikaal uitgewerkte oefeningen:
+Denk altijd na over waarom je een bepaalde beslissing neemt, wat het gevolg hiervan is en wat de alternatieven zijn.
 
+Bekijk de klassikaal uitgewerkte oefeningen:
 - Surfing Pikachu  
   https://github.com/tommy-uytterhaegen/HoGent/tree/main/2025_S1_MonoGame_Pikachu_03-EindeLes3
 - Joke-app  
   https://github.com/tommy-uytterhaegen/HoGent/tree/main/2025_S1_Maui_Jokes_03_EindeLes3
-
-Ook de gedeelde voorbeeldcode kan nuttig zijn.
 
 ## Belangrijk
 
