@@ -1,4 +1,7 @@
 # HoGent – Softwareontwerp 2  
+
+<img src="images/skigame.png" height="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/kerstlijstje.jpg" height="250" />
+
 ## Eindevaluatie – Semester 1 (2025)
 
 Dit is de eindevaluatie voor het vak Softwareontwerp 2, gegeven door Tommy Uytterhaegen.
@@ -7,17 +10,8 @@ Dit is de eindevaluatie voor het vak Softwareontwerp 2, gegeven door Tommy Uytte
 
 Je kiest één van de volgende opdrachten.
 
-### Ski-game (MonoGame)
-
-![monogame](images/skigame.png)
-
-De opdracht kan je vinden in het mapje `monogame_ski`.
-
-### Kerstlijstje (MAUI)
-
-![maui](images/kerstlijstje.jpg)
-
-De opdracht kan je vinden in het mapje `maui_kerstlijst`.
+* Ski-game (MonoGame): De opdracht kan je vinden in het mapje `[monogame_ski](monogame_ski/)`.
+* Kerstlijstje (MAUI): De opdracht kan je vinden in het mapje `[maui_kerstlijst](maui_kerstlijst/)`.
 
 Je mag beide opdrachten uitwerken, maar slechts één opdracht wordt gebruikt voor de evaluatie. Je kiest zelf welke.
 
