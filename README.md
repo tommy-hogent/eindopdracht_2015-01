@@ -29,6 +29,6 @@ De focus van deze opdracht ligt op softwareontwerp, dit wil zeggen dat een zeer 
 
 ## Tips
 
-Bekijk zeker de klassikaal gemaakte oefeningen (Surfing pikachu & Joke-app), eventueel ook de gedeelde code
+Bekijk zeker de klassikaal gemaakte oefeningen ([Surfing pikachu](https://github.com/tommy-uytterhaegen/HoGent/tree/main/2025_S1_MonoGame_Pikachu_03-EindeLes3) & [Joke-app](https://github.com/tommy-uytterhaegen/HoGent/tree/main/2025_S1_Maui_Jokes_03_EindeLes3)), eventueel ook de gedeelde code
 
 Succes!
