@@ -1,6 +1,6 @@
 # HoGent – Softwareontwerp 2  
 
-<img src="images/skigame.png" height="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/kerstlijstje.jpg" height="250" />
+<img src="images/skigame.png" height="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/kerstlijstje.png" height="250" />
 
 ## Eindevaluatie – Semester 1 (2025)
 
