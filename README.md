@@ -26,6 +26,7 @@ Voor de gekozen opdracht:
   - Volledig klassendiagram
 - Geef toegang tot de GitHub-repository aan tommy.uytterhaegen@hogent.be
 - Dien de GitHub-link ook in via de opdracht op Chamilo
+- De oplossing moet ten laatste doorgestuurd zijn op 5 januari 2026
 
 ## Evaluatie
 
@@ -45,7 +46,7 @@ Bekijk de klassikaal uitgewerkte oefeningen:
 
 ## Mondelinge verdediging
 
-Op 8 of 9 januari krijg je de kans om jouw ontwerp mondeling te verdedigen. Je kiest zelf een tijdslot van 30 minuten.
+Zorg ervoor dat jouw oplossing ten laatste binnen is op 5 januari 2026. Op 8 of 9 januari krijg je dan de kans om jouw ontwerp mondeling te verdedigen. Je kiest zelf een tijdslot van 30 minuten.
 Tijdens deze verdediging verwacht ik dat je aantoont dat jouw oplossing doordacht is en dat je de relevante concepten uit de lessen correct en bewust hebt toegepast.
 
 Ik zal tijdsloten openzetten waaruit je kan kiezen. Hierover volgt nog een bericht.
