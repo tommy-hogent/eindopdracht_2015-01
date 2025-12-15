@@ -43,6 +43,13 @@ Bekijk de klassikaal uitgewerkte oefeningen:
 - Joke-app  
   https://github.com/tommy-uytterhaegen/HoGent/tree/main/2025_S1_Maui_Jokes_03_EindeLes3
 
+## Mondelinge verdediging
+
+Op 8 of 9 januari krijg je de kans om jouw ontwerp mondeling te verdedigen. Je kiest zelf een tijdslot van 30 minuten.
+Tijdens deze verdediging verwacht ik dat je aantoont dat jouw oplossing doordacht is en dat je de relevante concepten uit de lessen correct en bewust hebt toegepast.
+
+Ik zal tijdsloten openzetten waaruit je kan kiezen. Hierover volgt nog een bericht.
+
 ## Belangrijk
 
 Indien er aanpassingen komen aan deze bestanden die relevant zijn voor de opdracht, wordt dit gecommuniceerd via Chamilo.
